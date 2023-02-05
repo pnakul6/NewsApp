@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alexandra Semenova",
+            "title": "Stock market news live updates: Stocks fall after strong labor market data - Yahoo Finance",
+            "description": "U.S. stocks sank Thursday morning after economic data showed private payrolls rose more than expected last month and weekly jobless claims fell to a three...",
+            "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-january-5-2023-123028965.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eTUqwsK2U8UZnZIPcBF.eA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/a1975c60-8c7f-11ed-b96e-16f618f15ea7",
+            "publishedAt": "2023-01-05T14:35:35Z",
+            "content": "U.S. stocks sank Thursday morning after economic data showed private payrolls rose more than expected last month and weekly jobless claims fell to a three-month low, pointing to continued tightness i… [+5483 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wolfe, Jacob Lev",
+            "title": "'I got him. We all got him.' Fellow NFLer details bedside hospital visit with Damar Hamlin as he remains in critical condition - CNN",
+            "description": "As Buffalo Bills player Damar Hamlin remains in critical condition after suffering an in-game cardiac arrest, his childhood friend and fellow NFL player says there is \"no doubt in my mind\" Hamlin will recover.",
+            "url": "https://www.cnn.com/2023/01/05/sport/damar-hamlin-collapse-bills-status-thursday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230104204509-04-damar-hamlin-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-05T14:09:00Z",
+            "content": "As Buffalo Bills player Damar Hamlin remains in critical condition after suffering an in-game cardiac arrest, his childhood friend and fellow NFL player says there is no doubt in my mind Hamlin will … [+5414 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clare Foran, Melanie Zanona",
+            "title": "Republicans scramble to end impasse over McCarthy's imperiled speakership bid - CNN",
+            "description": "Kevin McCarthy faces growing pressure to end the impasse over his imperiled speakership bid after two consecutive days of failed votes.",
+            "url": "https://www.cnn.com/2023/01/05/politics/kevin-mccarthy-speaker-bid/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230104160018-05-kevin-mccarthy-010423.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-05T14:00:00Z",
+            "content": "Kevin McCarthy faces growing pressure to end the impasse over his imperiled speakership bid after two consecutive days of failed votes. \r\nBut even after proposing major concessions to his hardline op… [+5933 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Keir Starmer embraces Brexit slogan with 'take back control' pledge - BBC",
+            "description": "The Labour leader promises to transfer powers from Westminster and turn the slogan into a \"solution\".",
+            "url": "https://www.bbc.com/news/uk-politics-64173370",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/169E0/production/_128204629_cb20ada6cc5310d7fa4460090c78956bdb8eb5e7.jpg",
+            "publishedAt": "2023-01-05T13:42:10Z",
+            "content": "Media caption, WATCH: 'Take Back Control' bill will turn slogan into solution, says Sir Keir Starmer\r\nSir Keir Starmer has promised a new \"take back control\" bill to transfer powers from Westminster … [+5370 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Tony Kurzweil, Megan Telles",
+            "title": "‘Bomb cyclone’ rains reach Southern California; Gov. declares state of emergency - KTLA Los Angeles",
+            "description": "Southern California is getting hit Thursday from the most powerful showers being produced by a “bomb cyclone” that formed off the coast this week. The storm, which arrived Wednesday, is expected to bring 2 to 4 inches of rain to most areas with even higher to…",
+            "url": "https://ktla.com/news/local-news/bomb-cyclone-rains-reach-southern-california-gov-declares-state-of-emergency/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/01/radar-jan-5.jpg?w=1280",
+            "publishedAt": "2023-01-05T13:30:59Z",
+            "content": "Southern California is getting hit Thursday from the most powerful showers being produced by a “bomb cyclone” that formed off the coast this week.\r\nThe storm, which arrived Wednesday, is expected to … [+2535 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Melissa Repko, Lillian Rizzo",
+            "title": "Bed Bath & Beyond shares plummet after company warns of potential bankruptcy - CNBC",
+            "description": "The embattled home goods retailer said it is exploring financial options, including filing for bankruptcy.",
+            "url": "https://www.cnbc.com/2023/01/05/bed-bath-beyond-shares-plummet-as-company-warns-of-deeper-financial-troubles.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107086189-1657284512699-gettyimages-1405866639-dsc09616_bd2f0af6-cc6d-46a2-a904-61365085a548.jpeg?v=1672925513&w=1920&h=1080",
+            "publishedAt": "2023-01-05T13:26:04Z",
+            "content": "A Bed Bath &amp; Beyond store is seen on June 29, 2022 in Miami, Florida.\r\nBed Bath &amp; Beyond warned Thursday it's running out of cash and is considering bankruptcy.\r\nThe retailer, citing worse-th… [+4156 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ben Church, Jill Martin",
+            "title": "Cincinnati Bengals quarterback Joe Burrow says team has 'mixed' feelings about playing next game - CNN",
+            "description": "Cincinnati Bengals quarterback Joe Burrow says he \"probably wants to play\" his team's next game but also understands that others don't in the aftermath of Damar Hamlin's collapse on Monday.",
+            "url": "https://www.cnn.com/2023/01/05/sport/cincinnati-bengals-joe-burrow-nfl-fixtures-hamlin-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230105113336-bengals-players-hamlin.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-05T13:26:00Z",
+            "content": "Cincinnati Bengals quarterback Joe Burrow says he probably wants to play his teams next game but also understands that others dont in the aftermath of Damar Hamlins collapse on Monday. \r\nBuffalo Bill… [+2245 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "Private payroll growth surged by 235,000 in December, well above estimate, ADP reports - CNBC",
+            "description": "Private payrolls rose by 235,000 for the month, well ahead of the 153,000 Dow Jones estimate.",
+            "url": "https://www.cnbc.com/2023/01/05/adp-jobs-report-december-2022.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107160482-1670003528516-gettyimages-1446299363-dscf2618_916f8d02-ed6a-4687-ade4-f6c33c1b0aae.jpeg?v=1672924505&w=1920&h=1080",
+            "publishedAt": "2023-01-05T13:15:05Z",
+            "content": "The jobs market closed out 2022 on a high note, with companies adding far more positions than expected in December, payroll processing firm ADP reported Thursday.\r\nPrivate payrolls rose by 235,000 fo… [+2893 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Riley Cardoza",
+            "title": "Prince Harry won't commit to King Charles' coronation: 'Ball is in their court' - Page Six",
+            "description": "“There’s a lot that can happen,” the duke said. “There’s a lot to be discussed and I really hope that they’re willing to sit down and talk.”",
+            "url": "https://pagesix.com/2023/01/05/prince-harry-declines-to-commit-to-attending-king-charles-coronation/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/01/king-charles-prince-harry-73.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-01-05T12:39:00Z",
+            "content": "Prince Harry was given the chance to verbally commit to attending King Charles III’s coronation in May but the duke refused.\r\n“There’s a lot that can happen between now and then,” the former military… [+2266 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Gary Gastelu",
+            "title": "Sony and Honda launch Afeela electric car brand. Here's what the name means - Fox News",
+            "description": "Sony Honda Mobility has announced that its upcoming electric car brand will be called Afeela and will launch its first American-made model in 2026.",
+            "url": "https://www.foxnews.com/auto/sony-honda-afeela-electric-car-brand",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/afeela-side.jpg",
+            "publishedAt": "2023-01-05T12:29:00Z",
+            "content": "Sony and Honda hope you're feeling their new car company's name.\r\nThe tech and auto giants created Sony Honda Mobility last year to develop an electric vehicle brand and announced at CES on Wednesday… [+1806 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Sam Metz",
+            "title": "8 found fatally shot in Utah home, including 5 children - The Associated Press - en Español",
+            "description": "SALT LAKE CITY (AP) — Eight family members, five of them children, were found dead from gunshot wounds in a southern Utah home, according to authorities who did not provide more details or a potential motive for the killings.",
+            "url": "https://apnews.com/article/utah-education-salt-lake-city-03b4048bf195b027b84c3337c676ce7a",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b811cf4ec33c4a198e755e61cbf85ab6/3000.webp",
+            "publishedAt": "2023-01-05T12:01:37Z",
+            "content": "SALT LAKE CITY (AP) Eight family members, five of them children, were found dead from gunshot wounds in a southern Utah home, according to authorities who did not provide more details or a potential … [+1827 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Prince Harry Says Prince William Knocked Him To The Floor In Dispute | English News LIVE | News18 - CNN-News18",
+            "description": "Prince Harry Says Prince William Knocked Him To The Floor In Dispute | English News LIVE | News18Britain's Prince Harry says in his much-awaited memoir that ...",
+            "url": "https://www.youtube.com/watch?v=17wPPIeGjs0",
+            "urlToImage": "https://i.ytimg.com/vi/17wPPIeGjs0/maxresdefault_live.jpg",
+            "publishedAt": "2023-01-05T11:58:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Chico Harlan, Adela Suliman",
+            "title": "Pope Benedict XVI funeral: Live updates - The Washington Post",
+            "description": "Pope Francis led the Mass in St. Peter's Square, as the final act in a warm but awkward relationship between the sitting pope and Benedict, the pope emeritus.",
+            "url": "https://www.washingtonpost.com/world/2023/01/05/pope-benedict-funeral/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UPUFOMUM6AI63ODKFY5HOM3LRY.jpg&w=1440",
+            "publishedAt": "2023-01-05T10:51:32Z",
+            "content": "Traditionally, three coffins are involved in the burial of a pope: an inner coffin made of cypress and bound shut with red ribbons; a slightly larger middle casket made of zinc and adorned with a cro… [+606 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "John Psaropoulos",
+            "title": "Ukraine starts new year with major attack on Russian troops - Al Jazeera English",
+            "description": "2023 begins with a Ukrainian offensive and defensive success, while the prospect for peace remains dim.",
+            "url": "https://www.aljazeera.com/news/2023/1/5/ukraine-attacks-russian-barracks-deflects-iranian-drones",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/01/2023-01-03T180920Z_1210099874_RC2ZIY9VX2OU_RTRMADP_3_UKRAINE-CRISIS-EAST-FRONTLINE.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-01-05T10:36:39Z",
+            "content": "Ukraine has started the new year with a major attack that killed many Russian soldiers in their barracks, and with a defensive victory its air force said it managed to shoot down all the Iranian dron… [+8510 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/mariella-moon",
+            "title": "Watch Samsung's keynote at CES 2023 in 6 minutes - Engadget",
+            "description": "Samsung introduced the latest SmartThings hub, which is also its first product to come with built-in Matter support..",
+            "url": "https://www.engadget.com/watch-samsung-keynote-ces-2023-6-minutes-074418062.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/8f472e90-8ccb-11ed-adaa-73a9b2a5acec",
+            "publishedAt": "2023-01-05T07:46:05Z",
+            "content": "Samsung introduced new QD-OLED TVs and a 57-inch 8K gaming display, the 2023 Freestyle projector and new Bespoke smart appliances at this year's CES. During the company's keynote, it also talked abou… [+1489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Aislinn Murphy",
+            "title": "Idaho murder suspect nabbed by genetic genealogy; some sites work with law enforcement - Fox Business",
+            "description": "DNA databases have been highlighted amid recent reports about the arrest of the Moscow, Idaho quadruple homicide suspect being aided by genetic genealogy.",
+            "url": "https://www.foxbusiness.com/lifestyle/idaho-murder-suspect-nabbed-genetic-genealogy-sites-work-law-enforcement",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/idaho_memorial_one.jpg?ve=1&tl=1",
+            "publishedAt": "2023-01-05T07:04:55Z",
+            "content": "DNA databases have been highlighted amid reports the arrest of the Moscow, Idaho quadruple homicide suspect was aided by genetic genealogy.\r\nMoscow police announced last week a Washington State Unive… [+5942 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Angelica Stabile",
+            "title": "New COVID omicron subvariant XBB.1.5 is ‘spreading like wildfire’ in US: Health experts reveal why - Fox News",
+            "description": "A new COVID-19 subvariant, XBB.1.5, is picking up speed nationwide. Dr. Marc Siegel and University of Arizona medical professor Dr. Shad Marvasti reveal what's worrisome about the contagious strain.",
+            "url": "https://www.foxnews.com/lifestyle/new-covid-omicron-subvariant-xbb-1-5-spreading-wildfire-us-health-experts-reveal-why",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/doctor-split.jpg",
+            "publishedAt": "2023-01-05T07:00:00Z",
+            "content": "The new omicron subvariant, known as XBB.1.5, is spreading like wildfire across the U.S.\r\nAs colder weather brings in peak COVID infections, this novel mutation is beginning to worry health professio… [+8547 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Tom Murray",
+            "title": "Jeremy Renner accident – update: Police seize snowplough that crushed actor to rule out ‘mechanical failure’ - The Independent",
+            "description": "Avengers star in ‘critical but stable’ condition after snow plough accident",
+            "url": "https://www.independent.co.uk/arts-entertainment/films/news/jeremy-renner-snowcat-plow-accident-latest-b2256346.html",
+            "urlToImage": "https://static.independent.co.uk/2023/01/04/00/newFile-2.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-01-05T06:29:02Z",
+            "content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nActor Jeremy Renner has undergone two surgeries at a Nev… [+6554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Jem Aswad",
+            "title": "Quavo Posts Heartbreaking Tribute Song to Takeoff, ‘Without You’ - Variety",
+            "description": "Quavo posted a touching tribute song Wednesday night to his nephew and Migos bandmate Takeoff, who was shot and killed in Houston on Nov. 1. Titled “Without You,” the song is a heartfelt and heartb…",
+            "url": "https://variety.com/2023/music/news/quavo-tribute-takeoff-without-you-1235479453/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/01/quavo-takeoff.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-01-05T04:12:00Z",
+            "content": "Quavo posted a touching tribute song Wednesday night to his nephew and Migos bandmate Takeoff, who was shot and killed in Houston on Nov. 1.\r\nTitled “Without You,” the song is a heartfelt and heartbr… [+2539 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Bloomberg",
+            "title": "US economist has 100% record in predicting recessions. What he says for this year | Mint - Mint",
+            "description": "Despite the yield curve being inverted for the ninth time since 1968, economist Campbell Harvey said it’s probably not a harbinger for a recession.",
+            "url": "https://www.livemint.com/economy/us-economist-has-100-record-in-predicting-recessions-what-he-says-for-this-year-11672888245218.html",
+            "urlToImage": "https://images.livemint.com/img/2023/01/05/600x338/US_recession_1672889429446_1672889429635_1672889429635.jpg",
+            "publishedAt": "2023-01-05T03:38:14Z",
+            "content": "Economist Campbell Harvey has had a winning track record since he showed in his dissertation at the University of Chicago decades ago that the shape of the bond yield curve was linked to the path of … [+4418 chars]"
+        }
+    ]
+}
